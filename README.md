@@ -15,5 +15,4 @@
 
 - A passionate back-end student
 - Experimenting with electronics in my spare time
-- Currently learning Mobile Development by Self
 <br><br>
